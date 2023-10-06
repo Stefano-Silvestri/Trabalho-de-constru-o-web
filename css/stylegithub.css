@@ -1,0 +1,38 @@
+
+body{
+    font-size: 100%;
+    background-color: #000080;
+
+}
+
+h1{
+    text-align: center;
+    font-family: 'Sarala', sans-serif ;
+    color: #FFF2E7;
+    font-weight: 400;
+    font-size: 30px;
+
+}
+
+p{
+    text-align: center;
+    font-family: 'Sarala', sans-serif ;
+    color: #FFF2E7;
+    font-weight: 400;
+    font-size: 25px;
+
+}
+
+a{
+    color: #FFF2E7;
+    font-weight: 400;
+    font-size: 25px;
+
+}
+
+.imagemgithub {
+    position: absolute;
+    left: 550px;
+    top: 300px;
+    height: 250px;
+}

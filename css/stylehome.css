@@ -1,0 +1,118 @@
+
+body{
+    font-size: 100%;
+    background-color: #000080;
+
+}
+
+a{
+
+    color: #999;
+}
+
+.menu {
+    position: absolute;
+    left: 800px;
+    top: 50px;
+}
+
+.link-menu {
+    display: flex;
+    gap:  32px;
+}
+
+
+.link-menu-item{
+    font-family: 'Sarala', sans-serif ;
+    color: #FFF2E7;
+    font-weight: 400;
+    font-size: 18px;
+
+}
+
+.ancora{
+    font-family: 'Sarala', sans-serif ;
+    color: #FFF2E7;
+    font-weight: 400;
+    font-size: 18px;
+
+}
+
+
+.imagemrosto{
+    position: absolute;
+    left: 1000px;
+    top: 100px;
+    height: 250px;
+}
+
+.imagemfestadapenha{
+    height: 200px;
+
+}
+
+.matrix{
+    height: 200px;
+
+}
+
+.beatles{
+    height: 200px;
+
+}
+
+.brasil{
+    height: 200px;
+
+}
+
+.Historia{
+    font-family: 'Sarala', sans-serif ;
+    color: #FFF2E7;
+    font-weight: 400;
+    font-size: 18px;
+    position: absolute;
+    left: 20px;
+    top: 150px;
+    height: 250px;
+
+}
+
+.Minha-História{
+
+        text-align: justify;
+
+}
+
+.Hobby{
+
+    text-align: justify;
+
+}
+
+ul{
+    list-style-type: square;
+
+}
+
+table, th, td {
+
+    border: 1px solid #FFF2E7;
+    border-collapse: collapse;
+    padding: 5px 2px;
+    font-family: 'Sarala', sans-serif ;
+    color: #FFF2E7;
+}
+
+table {
+
+    width: 100%;
+}
+
+
+
+th{
+    background-color: #264696;
+    color: #fff;
+
+}

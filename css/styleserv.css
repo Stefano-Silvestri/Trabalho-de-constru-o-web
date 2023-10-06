@@ -1,0 +1,68 @@
+
+body{
+    font-size: 100%;
+    background-color: #000080;
+
+}
+
+.titulo {
+    text-align: center;
+    font-family: 'Sarala', sans-serif ;
+    color: #FFF2E7;
+    font-weight: 400;
+    font-size: 30px;
+}
+
+a{
+    font-family: 'Sarala', sans-serif ;
+    color: #FFF2E7;
+
+}
+
+h1{
+    text-align: center;
+    font-family: 'Sarala', sans-serif ;
+    color: #FFF2E7;
+    font-weight: 400;
+    font-size: 18px;
+
+}
+
+table, th, td {
+
+    border: 1px solid #FFF2E7;
+    border-collapse: collapse;
+    padding: 5px 2px;
+    font-family: 'Sarala', sans-serif ;
+    color: #FFF2E7;
+}
+
+table {
+
+    width: 100%;
+}
+
+.Tab_1 {
+
+    text-align: left;
+}
+
+.Tab_2 {
+
+    text-align: center;
+}
+
+th{
+    background-color: #264696;
+    color: #fff;
+
+}
+
+.link-home {
+    font-weight: 400;
+    font-size: 18px;
+    position: absolute;
+    top: 500px;
+    left: 600px;
+}
+
